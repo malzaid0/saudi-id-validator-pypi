@@ -8,7 +8,7 @@ LONG_DESCRIPTION = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     # the name must match the folder name 'verysimplemodule'
-    name="saudi-id-validator",
+    name="saudi-ids-validator",
     version="0.0.1",
     author="Mohammed Alzaid",
     author_email="m7md.alzaid5@gmail.com",

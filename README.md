@@ -10,7 +10,7 @@ Accepts both eastern and western Arabic numbers <br/>
 ## Installation
 To install the package run:
 ```bash
-pip install saudi-id-validator
+pip install saudi-ids-validator
 ```
 
 
